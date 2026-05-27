@@ -1,1 +1,3 @@
 # Lab8-Starter
+Lab Worker: Dmitri Singer
+Graceful degradation and service workers are related because service workers are a very high level of technology - multithreading - and we need to carefully add the technology to support these service workers thereafter, or else they won't work properly. A proper understanding of HTML, CSS, and JS is needed to understand how service workers can work properly.
